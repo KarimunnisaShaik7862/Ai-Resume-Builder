@@ -185,9 +185,14 @@ function App() {
      <div className=" w-full lg:w-[18%] bg-[#e1dcd6b2] flex flex-col pb-9 items-center px-2 py-10 lg:rounded-r-4xl">
            <h1 className="text-center text-[1.8rem] font-bold">Resume Tools</h1>
            <div className=" w-full place-items-center lg:w-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:flex  lg:flex-col ">
-            {/* download button */}
+
+
+{/* Download button */}
+            <button   className=" bg-[#9a2b38] w-[180px] h-[50px] rounded-[100px] font-bold text-[1.2rem] mt-7 text-white  cursor-pointer" >Download PDF</button>
+
+            {/*upload button */}
              <div className="flex flex-col items-center justify-center">
-                     <button onClick={optChange}  className=" w-[180px] h-[50px] rounded-[100px] font-bold text-[1.2rem] mt-7 text-white bg-[#2a499d] cursor-pointer" >Download</button>
+                     <button onClick={optChange}  className=" w-[180px] h-[50px] rounded-[100px] font-bold text-[1.2rem] mt-7 text-white bg-[#2a499d] cursor-pointer" >Upload Resume</button>
                          {
                               opt &&(
                                   <div className="bg-gray-200 mt-2 p-2 rounded-[15px] sm:w-[80%] flex flex-col gap-2 text-black font-bold items-center justify-center">

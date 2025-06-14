@@ -152,48 +152,146 @@ const WithoutAiTemp = ({ setActiveStep }) => {
     },
     {
       id: 20,
-      name: 'Modern Web Developer Resume Template',
+      name: 'Retail Expert',
       preview: temp8,
-      description: 'Interactive resume template with vibrant design and essential developer details.',
+      description: 'Dynamic sales professional excelling in service, merchandising, and customer engagement.',
       url: '/resume-template20'
     },
     {
       id: 21,
-      name: 'Modern Web Developer Resume Template',
+      name: 'Sales Specialist',
       preview: temp8,
-      description: 'Interactive resume template with vibrant design and essential developer details.',
+      description: 'Driven retail expert excelling in sales, service, and visual merchandising.',
       url: '/resume-template21'
     },
     {
       id: 22,
-      name: 'Modern Web Developer Resume Template',
+      name: 'Legal Intern',
       preview: temp8,
-      description: 'Interactive resume template with vibrant design and essential developer details.',
+      description: 'Motivated legal intern with strong research, writing, and analytical skills.',
       url: '/resume-template22'
     },
     {
       id: 23,
-      name: 'Modern Web Developer Resume Template',
+      name: 'Creative Visionary',
       preview: temp8,
-      description: 'Interactive resume template with vibrant design and essential developer details.',
+      description: 'Delivers compelling freelance design solutions with innovation, strategy, and style.',
       url: '/resume-template23'
     },
     {
       id: 24,
-      name: 'Modern Web Developer Resume Template',
+      name: 'Tech Enthusiast',
       preview: temp8,
-      description: 'Interactive resume template with vibrant design and essential developer details.',
+      description: 'Innovative computer science graduate passionate about coding and future technologies.',
       url: '/resume-template24'
     },
     {
       id: 25,
-      name: 'Modern Web Developer Resume Template',
+      name: 'Code Innovator',
       preview: temp8,
-      description: 'Interactive resume template with vibrant design and essential developer details.',
+      description: 'Creative software developer specializing in scalable, user-friendly web solutions',
+      url: '/resume-template25'
+    },
+     {
+      id: 26,
+      name: 'Code Crafter',
+      preview: temp8,
+      description: 'Dedicated developer skilled in React, CSS, and problem solving.',
       url: '/resume-template26'
     },
+     {
+      id: 27,
+      name: 'Design Visionary',
+      preview: temp8,
+      description: 'Creative graphic designer with a passion for clean visual storytelling.',
+      url: '/resume-template27'
+    },
+     {
+      id: 28,
+      name: 'Code Architect',
+      preview: temp8,
+      description: 'Versatile fullstack developer crafting efficient, scalable, and modern applications.',
+      url: '/resume-template28'
+    },
+     {
+      id: 29,
+      name: 'UI Crafter',
+      preview: temp8,
+      description: 'Designs seamless user experiences with clean, responsive, modern web interfaces.',
+      url: '/resume-template29'
+    },
+     {
+      id: 30,
+      name: ' Career Snapshot',
+      preview: temp8,
+      description: ' Showcasing skills, projects, and achievements in full stack development.',
+      url: '/resume-template30'
+    },
+     {
+      id: 31,
+      name: 'Experience Highlights',
+      preview: temp8,
+      description: ' Demonstrated success in leading teams and optimizing software performance.',
+      url: '/resume-template31'
+    },
+     {
+      id: 32,
+      name: 'Professional Overview',
+      preview: temp8,
+      description: 'Showcases expertise in software engineering and impactful development roles',
+      url: '/resume-template32'
+    },
+     {
+      id: 33,
+      name: '',
+      preview: temp8,
+      description: '',
+      url: '/resume-template33'
+    },
+     {
+      id: 34,
+      name: '',
+      preview: temp8,
+      description: '',
+      url: '/resume-template34'
+    },
+     {
+      id: 35,
+      name: '',
+      preview: temp8,
+      description: '',
+      url: '/resume-template35'
+    },
+     {
+      id: 36,
+      name: '',
+      preview: temp8,
+      description: '',
+      url: '/resume-template36'
+    },
+     {
+      id: 37,
+      name: '',
+      preview: temp8,
+      description: '',
+      url: '/resume-template37'
+    },
+     {
+      id: 38,
+      name: '',
+      preview: temp8,
+      description: '',
+      url: '/resume-template38'
+    },
+     {
+      id: 39,
+      name: '',
+      preview: temp8,
+      description: '',
+      url: '/resume-template39'
+    },
     {
-      id: 26,
+      id: 40,
       name: 'Design Innovator',
       preview: temp8,
       description: 'Vibrant layout for graphic designers showcasing creative excellence',

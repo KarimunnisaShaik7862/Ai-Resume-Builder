@@ -38,6 +38,20 @@ import ResumeTemplate22 from "../components/ai-resume-templates/resumeTemplate22
 import ResumeTemplate23 from "../components/ai-resume-templates/resumeTemplate23/ResumeTemplate23.jsx";
 import ResumeTemplate24 from "../components/ai-resume-templates/resumeTemplate24/ResumeTemplate24.jsx";
 import ResumeTemplate25 from "../components/ai-resume-templates/resumeTemplate25/ResumeTemplate25.jsx";
+import ResumeTemplate26 from "../components/ai-resume-templates/resumeTemplate26/ResumeTemplate26.jsx";
+import ResumeTemplate27 from "../components/ai-resume-templates/resumeTemplate27/ResumeTemplate27.jsx";
+import ResumeTemplate28 from "../components/ai-resume-templates/resumeTemplate28/ResumeTemplate28.jsx";
+import ResumeTemplate29 from "../components/ai-resume-templates/resumeTemplate29/ResumeTemplate29.jsx";
+import ResumeTemplate30 from "../components/ai-resume-templates/resumeTemplate30/ResumeTemplate30.jsx";
+import ResumeTemplate31 from "../components/ai-resume-templates/resumeTemplate31/ResumeTemplate31.jsx";
+import ResumeTemplate32 from "../components/ai-resume-templates/resumeTemplate32/ResumeTemplate32.jsx";
+import ResumeTemplate33 from "../components/ai-resume-templates/resumeTemplate33/ResumeTemplate33.jsx";
+import ResumeTemplate34 from "../components/ai-resume-templates/resumeTemplate34/ResumeTemplate34.jsx";
+import ResumeTemplate35 from "../components/ai-resume-templates/resumeTemplate35/ResumeTemplate35.jsx";
+import ResumeTemplate36 from "../components/ai-resume-templates/resumeTemplate36/ResumeTemplate36.jsx";
+import ResumeTemplate37 from "../components/ai-resume-templates/resumeTemplate37/ResumeTemplate37.jsx";
+import ResumeTemplate38 from "../components/ai-resume-templates/resumeTemplate38/ResumeTemplate38.jsx";
+import ResumeTemplate39 from "../components/ai-resume-templates/resumeTemplate39/ResumeTemplate39.jsx";
 
 import Trytemp from '../components/Trytemp.jsx';
 
@@ -79,6 +93,21 @@ const AppRoutes = () => {
           <Route  path='/resume-template23' element={<ResumeTemplate23/>} />
           <Route  path='/resume-template24' element={<ResumeTemplate24/>} />
           <Route  path='/resume-template25' element={<ResumeTemplate25/>} />
+          <Route  path='/resume-template26' element={<ResumeTemplate26/>} />
+          <Route  path='/resume-template27' element={<ResumeTemplate27/>} />
+          <Route  path='/resume-template28' element={<ResumeTemplate28/>} />
+          <Route  path='/resume-template29' element={<ResumeTemplate29/>} />
+          <Route  path='/resume-template30' element={<ResumeTemplate30/>} />
+          <Route  path='/resume-template31' element={<ResumeTemplate31/>} />
+          <Route  path='/resume-template32' element={<ResumeTemplate32/>} />
+          <Route  path='/resume-template33' element={<ResumeTemplate33/>} />
+          <Route  path='/resume-template34' element={<ResumeTemplate34/>} />
+          <Route  path='/resume-template35' element={<ResumeTemplate35/>} />
+          <Route  path='/resume-template36' element={<ResumeTemplate36/>} />
+          <Route  path='/resume-template37' element={<ResumeTemplate37/>} />
+          <Route  path='/resume-template38' element={<ResumeTemplate38/>} />
+          <Route  path='/resume-template39' element={<ResumeTemplate39/>} />
+
            <Route path="/try" element={<Trytemp/>} />
 
         
