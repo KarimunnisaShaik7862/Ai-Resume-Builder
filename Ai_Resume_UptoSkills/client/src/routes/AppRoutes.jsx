@@ -7,7 +7,7 @@ import Home from "../pages/Home.jsx"
 
   // Login 
 import Login from "../pages/auth/Login.jsx"
-import SignUp from "../pages/auth/Signup.jsx"
+import SignUp from "../pages/auth/SignUp.jsx"
 
   // Main TemplatePage
 import TemplatePage from '../pages/TemplatePage.jsx';
@@ -23,12 +23,12 @@ import ResumeTemplate7 from "../components/ai-resume-templates/resumeTemplate7/R
 import ResumeTemplate8 from "../components/ai-resume-templates/resumeTemplate8/ResumeTemplate8.jsx";
 import ResumeTemplate9 from "../components/ai-resume-templates/resumeTemplate9/ResumeTemplate9.jsx";
 import ResumeTemplate10 from "../components/ai-resume-templates/resumeTemplate10/ResumeTemplate10.jsx";
-import ResumeTemplate11 from "../components/ai-resume-templates/resumeTemplate11/ResumeTemplate11.jsx";
-import ResumeTemplate12 from "../components/ai-resume-templates/resumeTemplate12/ResumeTemplate12.jsx";
-import ResumeTemplate13 from "../components/ai-resume-templates/resumeTemplate13/ResumeTemplate13.jsx";
-import ResumeTemplate14 from "../components/ai-resume-templates/resumeTemplate14/ResumeTemplate14.jsx";
-import ResumeTemplate15 from "../components/ai-resume-templates/resumeTemplate15/ResumeTemplate15.jsx";
-import ResumeTemplate16 from "../components/ai-resume-templates/resumeTemplate16/ResumeTemplate16.jsx";
+import ResumeTemplate11 from "../components/ai-resume-templates/resumeTemplate11/resumeTemplate11.jsx";
+import ResumeTemplate12 from "../components/ai-resume-templates/resumeTemplate12/resumeTemplate12.jsx";
+import ResumeTemplate13 from "../components/ai-resume-templates/resumeTemplate13/resumeTemplate13.jsx";
+import ResumeTemplate14 from "../components/ai-resume-templates/resumeTemplate14/resumeTemplate14.jsx";
+import ResumeTemplate15 from "../components/ai-resume-templates/resumeTemplate15/resumeTemplate15.jsx";
+import ResumeTemplate16 from "../components/ai-resume-templates/resumeTemplate16/resumeTemplate16.jsx";
 import ResumeTemplate17 from "../components/ai-resume-templates/resumeTemplate17/ResumeTemplate17.jsx";
 import ResumeTemplate18 from "../components/ai-resume-templates/resumeTemplate18/ResumeTemplate18.jsx";
 import ResumeTemplate19 from "../components/ai-resume-templates/resumeTemplate19/ResumeTemplate19.jsx";
